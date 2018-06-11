@@ -12,10 +12,10 @@ import csv
 
 # API authentication credentials
 # Some more text on what they do
-consumer_key = 'Me9KDPsnaksdKVjSLKpMzyaaM'
-consumer_secret = 'ClqTCnEX51LQ9Kb7P8zT9waBgUCDcC9afKLSdZARzeq9ZwDHJL'
-access_token = '1099627620-soxtz9RsWpDzFNMnHZZKcRDw3U9dVHcF23GU4gt'
-access_secret = 'FPcU4fnKr6I60QQ6mRYwxPYAZXb2hRAKaz5bakpdTKSZh'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_secret = ''
 
 def scrapeTweets(username):
 	# Twitter only allows access to a users most recent 3240 tweets with this method
