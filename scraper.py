@@ -11,7 +11,7 @@ from tweepy import OAuthHandler
 import csv
 
 # API authentication credentials
-# Some more text on what they do
+# "Your application's Consumer Key and Secret are used to authenticate requests to the Twitter Platform."
 consumer_key = ''
 consumer_secret = ''
 access_token = ''
